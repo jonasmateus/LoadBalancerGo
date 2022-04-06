@@ -1,0 +1,16 @@
+{
+  "endPoints": [
+      {
+          "url": "http://localhost:3031/"
+      },
+      {
+          "url": "http://localhost:3032/"
+      },
+      {
+          "url": "http://localhost:3033/"
+      },
+      {
+          "url": "http://localhost:3034/"
+      }
+  ]
+}
